@@ -1,0 +1,6 @@
+name: Elevator
+main: net.comorevi.nukkitplugin.Elevator
+version: 1.0.0
+author: popkechupki
+api: ["1.0.0"]
+description: ジャンプで上に、シフトで下に。
